@@ -15,8 +15,8 @@
 ### 💻 <sub>About Me</sub>
 <sub>
 Adaptable and motivated Computer Science student with 5+ years in hospitality/retail before returning to education.  
-Interested in **application & database development**, **API design**, and **clean user interfaces**.  
-Currently learning Java, SQL, C/C++, and exploring **.NET MAUI.  
+Interested in application & database development, API design, and clean user interfaces.  
+Currently learning Java, SQL, C/C++, and exploring .NET MAUI.  
 </sub>
 
 ---
