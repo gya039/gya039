@@ -1,5 +1,5 @@
-<h3 align="center">Hi, I'm Yan 👋</h3>
-<p align="center"><sub>Computer Science student transitioning back into software development</sub></p>
+<h3 align="center">Hi, I'm Yan Kapiankov 👋</h3>
+<p align="center"><sub>Computer Science student at ATU Galway</sub></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yan-kapiankov/">
@@ -16,7 +16,7 @@
 <sub>
 Adaptable and motivated Computer Science student with 5+ years in hospitality/retail before returning to education.  
 Interested in **application & database development**, **API design**, and **clean user interfaces**.  
-Currently learning **Java, SQL, C/C++**, and exploring **.NET MAUI**.  
+Currently learning Java, SQL, C/C++, and exploring **.NET MAUI.  
 </sub>
 
 ---
